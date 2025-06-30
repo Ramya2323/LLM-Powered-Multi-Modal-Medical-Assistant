@@ -18,7 +18,7 @@ from langchain.agents import Tool, initialize_agent
 from langchain_groq import ChatGroq
 
 # ----------- CONFIG -----------
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "Add your Groq key"
 MODEL_NAME = "llama3-8b-8192"
 
 # ----------- SETUP LLM -----------
